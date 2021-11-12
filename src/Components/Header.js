@@ -21,7 +21,7 @@ export class Header extends Component {
                         <Link to="/search">Search Auction</Link>
                       </li>
                       <li>
-                        <Link to="/tnc">Terms and Conditions</Link>
+                        <Link to="/tnc">Terms & Conditions</Link>
                       </li>
                       <li>
                         <Link to="/about">About Us</Link>
