@@ -1,13 +1,15 @@
 import React, { Component } from 'react'
+import './Styles/Login.css'
 
-export class search extends Component {
+export class login extends Component {
     render() {
         return (
             <div>
-                <h1>Search</h1>
+                <h1>Login Page</h1>
             </div>
         )
     }
 }
 
-export default search
+export default login
+
