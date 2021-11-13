@@ -32,6 +32,7 @@ export class Header extends Component {
                     </ul>
                 </div>
 
+              <h1> Hello </h1>
                 <Routes>
                 <Route exact path='/' element={<Home/>}></Route>
                 <Route exact path='/about' element={<About/>}></Route>
